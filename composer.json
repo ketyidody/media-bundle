@@ -1,5 +1,5 @@
 {
-  "name": "ranky/media-bundle",
+  "name": "ketyidody/media-bundle",
   "description": "A complete and friendly media file manager for Symfony",
   "keywords": [ "media", "image", "thumbnails", "file", "resize", "compress", "bundle", "symfony" ],
   "type": "symfony-bundle",
@@ -7,7 +7,7 @@
   "authors": [
     {
       "name": "chiqui3d",
-      "homepage": "https://github.com/ranky/media-bundle"
+      "homepage": "https://github.com/ketyidody/media-bundle"
     }
   ],
   "autoload": {
